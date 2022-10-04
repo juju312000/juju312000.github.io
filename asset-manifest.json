@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.73f56fbf.css",
-    "main.js": "/static/js/main.44c5f5ad.js",
+    "main.js": "/static/js/main.4c6f85d1.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -33,6 +33,8 @@
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
+    "static/media/toeic.png": "/static/media/toeic.cfd3f74585a332cb03c1.png",
+    "static/media/voltaire.png": "/static/media/voltaire.6d1aa839a10fbfcd065c.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/esiee_logo.png": "/static/media/esiee_logo.8571080d5f7ecfd93785.png",
@@ -66,10 +68,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.73f56fbf.css.map": "/static/css/main.73f56fbf.css.map",
-    "main.44c5f5ad.js.map": "/static/js/main.44c5f5ad.js.map"
+    "main.4c6f85d1.js.map": "/static/js/main.4c6f85d1.js.map"
   },
   "entrypoints": [
     "static/css/main.73f56fbf.css",
-    "static/js/main.44c5f5ad.js"
+    "static/js/main.4c6f85d1.js"
   ]
 }
